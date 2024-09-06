@@ -2,6 +2,6 @@ class Hello
 {
  public static void main(String args[])
 {
-   System.out.print("good morning");
+   System.out.Print("good morning");
 }
 }
